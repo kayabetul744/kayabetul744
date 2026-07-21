@@ -13,13 +13,30 @@ ortama taşıyan bir dizi prototip üzerinde çalışıyorum (aşağıda).
 ## Uzamsal Arayüz, VR ve Simülasyon Prototipleri
 
 Aşağıdaki üç proje, hava araçlarının operasyon planlama süreçlerini 3B/VR ortamda simüle etmeyi
-hedefleyen, birbirini tamamlayan bağımsız prototiplerdir.
+hedefleyen, birbirini tamamlayan bağımsız prototiplerdir. Kartlardaki görseller, ilgili reponun
+gerçekten çalıştırılmasıyla üretilmiştir (bkz. her reponun kendi README'sindeki şeffaflık notu).
 
-| Proje | Ne Yapıyor |
-|---|---|
-| 🗺️ [**mission-waypoint-planner**](https://github.com/kayabetul744/baykar-mission-planner-prototype) | 3B uzayda waypoint oluşturma, `List<Vector3>` tabanlı rota optimizasyonu, arazi irtifa profili, `LineRenderer` ile taktik rota çizimi ve deneysel bir OpenXR/XR Interaction Toolkit girdi katmanı |
-| 📡 [**telemetry-panel**](https://github.com/kayabetul744/baykar-telemetry-panel-prototype-) | `UnityWebRequest` ile dış sunucudan asenkron telemetri çekme, Canvas UI üzerinde düşük gecikmeli bir İHA yer kontrol istasyonu operatör paneli, hava aracı perspektifinden görev önizleme |
-| 🛬 [**runway-siting**](https://github.com/kayabetul744/baykar-runway-siting-prototype) | Yükseklik haritası üzerinde eğim/pürüzlülük/rüzgar yönüne göre kalkış-iniş pisti uygunluk analizi; aynı algoritmanın hem Unity/C# hem bağımsız Python referans uygulaması |
+### 🗺️ [Waypoint & Rota Planlama](https://github.com/kayabetul744/baykar-mission-planner-prototype)
+
+[![Waypoint & Rota Planlama](https://raw.githubusercontent.com/kayabetul744/baykar-mission-planner-prototype/main/docs/route_preview.png)](https://github.com/kayabetul744/baykar-mission-planner-prototype)
+
+3B uzayda waypoint oluşturma, `List<Vector3>` tabanlı rota optimizasyonu (en yakın komşu algoritması,
+görselde %47 mesafe azalması), arazi irtifa profili, `LineRenderer` ile taktik rota çizimi ve deneysel
+bir OpenXR/XR Interaction Toolkit girdi katmanı.
+
+### 📡 [Telemetri & Operatör Paneli](https://github.com/kayabetul744/baykar-telemetry-panel-prototype-)
+
+[![Telemetri & Operatör Paneli](https://raw.githubusercontent.com/kayabetul744/baykar-telemetry-panel-prototype-/main/docs/telemetry_preview.png)](https://github.com/kayabetul744/baykar-telemetry-panel-prototype-)
+
+`UnityWebRequest` ile dış sunucudan asenkron telemetri çekme, Canvas UI üzerinde düşük gecikmeli bir
+İHA yer kontrol istasyonu operatör paneli, hava aracı perspektifinden görev önizleme.
+
+### 🛬 [Kalkış/İniş Pisti Uygunluk Analizi](https://github.com/kayabetul744/baykar-runway-siting-prototype)
+
+[![Kalkış/İniş Pisti Uygunluk Analizi](https://raw.githubusercontent.com/kayabetul744/baykar-runway-siting-prototype/main/docs/runway_analysis_preview.png)](https://github.com/kayabetul744/baykar-runway-siting-prototype)
+
+Yükseklik haritası üzerinde eğim/pürüzlülük/rüzgar yönüne göre kalkış-iniş pisti uygunluk analizi;
+aynı algoritmanın hem Unity/C# hem bağımsız Python referans uygulaması.
 
 Her projenin kaynak kodu, mimari kararları ve kurulum adımları kendi README'sinde detaylıca anlatılmıştır.
 
