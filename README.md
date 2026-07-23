@@ -1,12 +1,23 @@
-# Merhaba, ben Betül 👋
+<h1 align="center">Merhaba, ben Betül 👋</h1>
 
-**UI/UX & Simulation Developer** — uzamsal arayüzler (spatial UI), 3B simülasyon ve modern web
-teknolojileri üzerine çalışıyorum. Çukurova Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi
-onur derecesiyle mezunuyum; TEKNOFEST ekosisteminde takım kaptanlığı yaparak fikirleri çalışan
-prototiplere dönüştürme pratiği edindim.
+<p align="center"><b>UI/UX & Simulation Developer</b> — uzamsal arayüzler (spatial UI), 3B simülasyon ve modern web teknolojileri</p>
 
-Şu anda Unity/C# ve OpenXR ekosistemine yoğunlaşıyorum: hava aracı operasyon planlamasını 3B/VR
-ortama taşıyan bir dizi prototip üzerinde çalışıyorum (aşağıda).
+<p align="center">
+  <a href="https://www.linkedin.com/in/b-kaya01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://whoisbetul.xyz/"><img src="https://img.shields.io/badge/Portf%C3%B6y-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:kayabetul094@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+Çukurova Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi onur derecesiyle mezunuyum;
+TEKNOFEST ekosisteminde takım kaptanlığı yaparak fikirleri çalışan prototiplere dönüştürme pratiği
+edindim. Şu anda Unity/C# ve OpenXR ekosistemine yoğunlaşıyorum: hava aracı operasyon planlamasını
+3B/VR ortama taşıyan bir dizi prototip üzerinde çalışıyorum (aşağıda).
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,unity,ts,js,react,nextjs,python,nodejs,html,css,git,github,docker,blender" />
+</p>
 
 ---
 
@@ -68,6 +79,19 @@ Kişisel portföy: [whoisbetul.xyz](https://whoisbetul.xyz/)
 **Simülasyon / VR:** Unity, C#, OpenXR, XR Interaction Toolkit, 3B Uzamsal Tasarım (Blender)
 **Web & Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Responsive UI/UX
 **Araçlar:** Git/GitHub, Docker, Python (Veri/AI), REST API & JSON
+
+## 📊 GitHub İstatistikleri
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kayabetul744&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayabetul744&layout=compact&hide_border=true" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayabetul744&hide_border=true" />
+</p>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=kayabetul744&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 
 ## İletişim
 
