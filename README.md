@@ -10,8 +10,7 @@
 
 Çukurova Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi onur derecesiyle mezunuyum;
 TEKNOFEST ekosisteminde takım kaptanlığı yaparak fikirleri çalışan prototiplere dönüştürme pratiği
-edindim. Şu anda Unity/C# ve OpenXR ekosistemine yoğunlaşıyorum: hava aracı operasyon planlamasını
-3B/VR ortama taşıyan bir dizi prototip üzerinde çalışıyorum (aşağıda).
+edindim. 
 
 ### 🛠️ Tech Stack
 
@@ -53,7 +52,7 @@ Her projenin kaynak kodu, mimari kararları ve kurulum adımları kendi README's
 
 ---
 
-## Diğer Projeler
+## Projeler
 
 - 🔐 [**SİBYA**](https://github.com/kayabetul744) — Siber güvenlik acil yardım asistanı (Django, Node.js, Dialogflow) · 2025 TEKNOFEST KKTC Sosyal İnovasyon Yarışması Finalisti
 - 💸 [**FinQuest**](https://finquest.com.tr/) — Finansal okuryazarlık için hibrit oyun/simülasyon platformu (React.js) · Unity entegrasyonu geliştirme aşamasında
@@ -66,7 +65,7 @@ Kişisel portföy: [whoisbetul.xyz](https://whoisbetul.xyz/)
 ---
 
 ## Öne Çıkan Başarılar
-
+-🏅 2026- TEKNOFEST NSOSYAL İnovasyon Yarışması - **Türkiye 2.si**
 - 🥇 2025 — TEKNOFEST Mavi Vatan Makale Yarışması, Bireysel Kategori — **Türkiye 1.si**
 - 🏅 2025 — TEKNOFEST KKTC Sosyal İnovasyon Yarışması — Finalist / Takım Kaptanı
 - 🥈 2025 — UNDP x FikrimGelecek Uluslararası Hackathon — Türkiye İkincisi
@@ -76,7 +75,7 @@ Kişisel portföy: [whoisbetul.xyz](https://whoisbetul.xyz/)
 
 ## Yetkinlikler
 
-**Simülasyon / VR:** Unity, C#, OpenXR, XR Interaction Toolkit, 3B Uzamsal Tasarım (Blender)
+
 **Web & Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Responsive UI/UX
 **Araçlar:** Git/GitHub, Docker, Python (Veri/AI), REST API & JSON
 
